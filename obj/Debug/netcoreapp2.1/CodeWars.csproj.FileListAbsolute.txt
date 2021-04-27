@@ -1,0 +1,11 @@
+/Users/megatron/Documents/GitHub/CodeWars/bin/Debug/netcoreapp2.1/CodeWars.deps.json
+/Users/megatron/Documents/GitHub/CodeWars/bin/Debug/netcoreapp2.1/CodeWars.runtimeconfig.json
+/Users/megatron/Documents/GitHub/CodeWars/bin/Debug/netcoreapp2.1/CodeWars.runtimeconfig.dev.json
+/Users/megatron/Documents/GitHub/CodeWars/bin/Debug/netcoreapp2.1/CodeWars.dll
+/Users/megatron/Documents/GitHub/CodeWars/bin/Debug/netcoreapp2.1/CodeWars.pdb
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.csprojAssemblyReference.cache
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.csproj.CoreCompileInputs.cache
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.AssemblyInfoInputs.cache
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.AssemblyInfo.cs
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.dll
+/Users/megatron/Documents/GitHub/CodeWars/obj/Debug/netcoreapp2.1/CodeWars.pdb
