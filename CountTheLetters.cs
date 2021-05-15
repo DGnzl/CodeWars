@@ -1,7 +1,6 @@
-using System;
 using System.Collections.Generic;
 
-public class Kata
+public class CountTheLetters
 {
   public static Dictionary<char, int> Count(string str)
   {

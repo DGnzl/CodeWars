@@ -10,7 +10,8 @@ namespace CodeWars
             //Console.WriteLine(Rot.Rot13("10+2 vf gjryir."));
             //Console.Write(UniqueSet.UniqueInOrder("AAAABBBCCDAABBB"));
             //Console.WriteLine(FormatS.Greet("GitHub"));
-            Console.WriteLine(Diamond.Print(5));
+            //Console.WriteLine(Diamond.Print(5));
+            Console.WriteLine(CountAndReplaceLetters.DuplicateEncode("aabb()"));
         }
     }
 }
