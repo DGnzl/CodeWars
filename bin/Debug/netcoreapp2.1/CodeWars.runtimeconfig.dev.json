@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Cybertron\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Cybertron\\.nuget\\packages"
+      "/Users/megatron/.dotnet/store/|arch|/|tfm|",
+      "/Users/megatron/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }
