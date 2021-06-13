@@ -12,7 +12,8 @@ namespace CodeWars
             //Console.WriteLine(FormatS.Greet("GitHub"));
             //Console.WriteLine(Diamond.Print(5));
             //Console.WriteLine(CountAndReplaceLetters.DuplicateEncode("aabb()"));
-            Console.WriteLine(Masking.Maskify("123456"));
+            //Console.WriteLine(Masking.Maskify("123456"));
+            Console.WriteLine(CharMath.caesarCipher("middle-Outz", 2));
         }
     }
 }
