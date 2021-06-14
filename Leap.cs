@@ -1,5 +1,4 @@
 using System;
-
 public static class Leap
 {
     public static bool IsLeapYear3(int year)
