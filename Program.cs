@@ -14,7 +14,8 @@ namespace CodeWars
             //Console.WriteLine(CountAndReplaceLetters.DuplicateEncode("aabb()"));
             //Console.WriteLine(Masking.Maskify("123456"));
             //Console.WriteLine(CharMath.caesarCipher("middle-Outz", 2));
-            Console.WriteLine(Leap.IsLeapYear(1900));
+            //Console.WriteLine(Leap.IsLeapYear(1900));
+            Console.WriteLine(EndsWith.Solution("abc", "c"));
         }
     }
 }
