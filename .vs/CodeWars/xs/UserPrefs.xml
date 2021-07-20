@@ -4,7 +4,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodeWars" expanded="True" selected="True" />
+          <Node name="CodeWars" expanded="True">
+            <Node name="CodeWars" expanded="True">
+              <Node name="EndsWith.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
